@@ -1,0 +1,1 @@
+This repo contains all the small projects i have made in my initial phase
